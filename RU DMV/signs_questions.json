@@ -1,0 +1,262 @@
+{
+    "q1": {
+        "text": "Какой из этих знаков указывает на приближение к железнодорожному переезду?                                                                                                                                                                                                       ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\r_r.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\school.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\stop_ahead.svg"
+            }
+        ]
+    },
+    "q2": {
+        "text": "Какой из этих знаков предупреждает о том, что впереди дорога поворачивает влево?                                                                                           ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\left_turn.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\right_turn_only.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\slower_traffic.svg"
+            }
+        ]
+    },
+    "q3": {
+        "text": "Какой из этих знаков информирует о манёврах, которые вы можете совершить при включённом сигнале светофора в виде зелёной стрелки?                                             ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\on_left_arrow.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\turnouts.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\merge_left.svg"
+            }
+        ]
+    },
+    "q4": {
+        "text": "Какой из этих знаков запрещает все повороты на красный сигнал светофора?                                                                                                ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\slide_area.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\no_turn_on_red.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\road_nerrows.svg"
+            }
+        ]
+    },
+    "q5": {
+        "text": "Какой из этих знаков запрещает повороты?                                                                                                                                       ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\keep_right.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\no_turns.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\emergency_parking.svg"
+            }
+        ]
+    },
+    "q6": {
+        "text": "Который из этих знаков означает \"ОБЪЕЗД\"?                                                                                                                                                                   ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\no_turn_on_red.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\keep_right.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\detour.svg"
+            }
+        ]
+    },
+    "q7": {
+        "text": "Какой из этих знаков предупреждает о том, что впереди выполняются дорожные работы?                                                                                                 ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\men_working.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\right_lane_closed.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\turnout.svg"
+            }
+        ]
+    },
+    "q8": {
+        "text": "Какой из этих знаков предупреждает об опасности выброса гравия из-под колёс автомобилей?                                                          ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\loose_gravel.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\no_turns.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\twoway_arrows.svg"
+            }
+        ]
+    },
+    "q9": {
+        "text": "Какой из этих знаков указывает на то, что правая полоса предназначена исключительно для съезда с дороги?                                             ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\twoway_traffic.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\right_lane_exit.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\end_freeway.svg"
+            }
+        ]
+    },
+    "q10": {
+        "text": "Какой из этих знаков запрещает разворот?                                                                                                                                     ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\no_right_turn.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\on_left_arrow.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\no_u_turn.svg"
+            }
+        ]
+    },
+    "q11": {
+        "text": "Какой из этих знаков предупреждает о том, что дорога впереди закрыта?                                                                                                  ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\construction.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\one_lane_road.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\road_closed.svg"
+            }
+        ]
+    },
+    "q12": {
+        "text": "Какой из этих знаков предупреждает о наличии осевой разделительной полосы или барьера на дороге?                                                     ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\slide_area.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\divided_road.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\flagman_ahead.svg"
+            }
+        ]
+    },
+    "q13": {
+        "text": "Какой из этих знаков предупреждает о наличии полосы обгона впереди?                                                                                                 ·",
+        "answers": [
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\right_lane_exit.svg"
+            },
+            {
+                "text": "",
+                "correct": true,
+                "image_path": "images\\passing_lane.svg"
+            },
+            {
+                "text": "",
+                "correct": false,
+                "image_path": "images\\twoway_traffic.svg"
+            }
+        ]
+    }
+}

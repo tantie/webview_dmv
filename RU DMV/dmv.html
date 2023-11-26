@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>RU DMV CA</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    
+<div class="button">
+    
+    <img src="images/logo.png" style="height: 80px;"><br>
+    <button onclick="navigateToMain()">Главная</button><br>
+   <!-- <button onclick="updateData()">Обновить</button><br> -->
+    <button id="toggleTheme">Переключить тему</button><br>
+    <!-- <button onclick="navigateToAllQuestions()">Все вопросы DMV CA</button><br>-->
+    <button onclick="loadQuestions(questions)" style="width: 130px;">Вопросы</button>
+
+    <button onclick="loadQuestions(questions, true)" width="16" style="width: 50px; margin-right: 4px;">
+        <svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m12 11h-1.586l-2.5-2.5 2.5-2.5h1.586v2.5l3.5-3.5-3.5-3.5v2.5h-2c-.265 0-.52.105-.707.293l-2.793 2.793-2.793-2.793c-.188-.188-.442-.293-.707-.293h-3v2h2.586l2.5 2.5-2.5 2.5h-2.586v2h3c.265 0 .52-.105.707-.293l2.793-2.793 2.793 2.793c.188.188.442.293.707.293h2v2.5l3.5-3.5-3.5-3.5z"/></svg>
+    </button>
+
+
+<br>
+    
+    
+    <button onclick="loadQuestions(signsQuestions)">Знаки</button><br>
+    <!--<button onclick="navigateToTestMode()">Пройти тест</button><br> -->
+    <!-- <button onclick="navigateToTestMode()">Перемешать и пройти тест</button><br>-->
+</div>
+    <br><br>
+    <div id="questionsContainer">
+    <p class="txt">
+    Привет, надеюсь это приложение поможет тебе быстро подготовиться к сдаче экзаменов в Калифорнии.<br>
+    Настоятельно рекомендуем перед тем как начать отвечать на тесты, изучить <a href="https://www.dmv.ca.gov/portal/file/california-driver-handbook-russian-pdf/" target="_blank">справочник водителя штата Калифорния на русском</a>
+
+    </p>
+    </div>
+    <script>
+        function updateData() {
+            // Call Objective-C method to check for updates
+            window.webkit.messageHandlers.updateData.postMessage(null);
+        }
+    </script>
+
+    <script src="script/menu.js"></script>
+    <script src="script/script.js"></script>
+</body>
+
+</html>
