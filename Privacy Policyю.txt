@@ -1,0 +1,25 @@
+Privacy Policy for the RU DMV App
+
+Last updated: 5 April 2024
+
+This application, RU DMV, is developed as a free resource with no commercial intent and is provided to users "as is" without any warranties. This app is designed to assist users in preparing for the DMV (Department of Motor Vehicles) tests in Russian.
+
+1. Collection and Use of Information
+
+The RU DMV app respects your privacy and does not collect, store, or share any personal data of its users. The application can be used anonymously and does not require users to provide any personal information.
+
+2. Third-Party Information
+
+The RU DMV app does not interact with third parties, use their services, or share any information with them.
+
+3. Internet Access
+
+The RU DMV app does not require an internet connection for its functionality and does not download any content from the internet.
+
+4. Changes to This Privacy Policy
+
+We reserve the right to make changes to this privacy policy at any time. Should any changes be made, we will update the "Last updated" date at the top of this document.
+
+5. Contact Information
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at: https://github.com/tantie
